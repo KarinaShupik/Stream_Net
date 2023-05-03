@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\bin\Debug\StreamNet.exe.config
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\bin\Debug\StreamNet.exe
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\bin\Debug\StreamNet.pdb
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.Form1.resources
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.Properties.Resources.resources
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.exe
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.pdb
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\HP\Desktop\home\Programming\C#\StreamNet\StreamNet\obj\Debug\StreamNet.csproj.CopyComplete
